@@ -11,6 +11,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "publishConfig": {
+    "@zhenzesong:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/songzhenze2/test-github-packages.git"
